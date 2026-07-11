@@ -1,0 +1,10 @@
+# Packaging rules for the rfc skill (see package.sh / scripts/package.py).
+# gitignore-style globs, one per line. '#' starts a comment; a leading '!'
+# re-includes something an earlier rule dropped. Patterns are matched against
+# the shipped rfc/ subtree — build tooling and dev-meta live outside it and
+# are never packaged in the first place.
+
+__pycache__
+*.pyc
+*.pyo
+.DS_Store
