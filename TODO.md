@@ -27,7 +27,7 @@
 
 ## Activation (optional, do once)
 
-- [ ] `git init` + push to GitHub so `update.sh` has a remote to pull.
+- [x] `git init` + push to GitHub (un1tz3r0/rfc-skill) — `update.sh` now has a remote.
 - [ ] `python3 rfc/scripts/rfc_tool.py --sync` if exhaustive offline `--content`
       search is wanted (~9,800 fetches; the index alone covers most searches).
 
