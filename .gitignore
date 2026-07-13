@@ -4,8 +4,6 @@ __pycache__/
 .venv/
 venv/
 *.skill
-# ...except the shipped bundle, which is a release artifact
-!rfc.skill
 *.zip
 *.egg-info/
 .pytest_cache/
