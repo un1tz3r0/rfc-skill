@@ -1,3 +1,5 @@
+![rfc-skill splash image](./assets/splash.svg)
+
 # rfc-skill — `/rfc`
 
 A Claude Code skill that looks up **real IETF RFCs** from the RFC Editor and puts
