@@ -8,6 +8,14 @@ what; pull a single section out of a 500 KB spec.
 
 Standard library only. No third-party dependencies, no virtualenv.
 
+## Quick Install
+
+Download [rfc.skill](./rfc.skill) and open your claude code settings, go to "Skills" and click "Add Skill...". Select the downloaded .skill file. You're good to go, try it out in a claude code session:
+
+```text/plain
+> /rfc
+```
+
 ## Install
 
 ```bash
